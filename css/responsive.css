@@ -1,0 +1,33 @@
+/* header media */
+@media (max-width:800px){
+    .nav{
+        display: none;
+    }
+    .burger{
+        display: block;
+    }
+}
+/* section 1 media */
+@media (max-width:920px){
+    .header{
+        flex-direction: column;
+    }
+    .satauti,.parag{
+        text-align: center;
+    }
+    .wave{
+        margin-bottom: 15px;
+    }
+
+}
+
+/* section 2 media */
+@media (max-width:1120px){
+    .flex-conteiner{
+        justify-content: center;
+    }
+    .flex{
+        margin-left: 15px;
+        margin-bottom: 15px;
+    }
+}
