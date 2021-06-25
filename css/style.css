@@ -3,7 +3,8 @@ body{
     margin-top: 70px;
 }
 .fdf{
-    width: 1720px;
+    max-width: 1720px;
+    width: 100%;
     position: fixed;
     top: 0;
     left: 0;
@@ -29,6 +30,9 @@ body{
 .navig /* fonts base style */{
     font-family: 'Lato';
 }
+.navig1 /* fonts base style */{
+    font-family: 'Lato';
+}
 /* section 1 */
 .header{
     max-width: 900px;
@@ -41,12 +45,14 @@ body{
     padding: 15px;
 }
 .satauti{
-    width: 300px;
+    max-width: 300px;
+    width: 100%;
     font-size: 18px;
     margin-bottom: 32px;
 }
 .box2 img{
-    width: 300px;
+    max-width: 300px;
+    width: 100%;
 }
 .parag{
     width: 302px;
@@ -55,7 +61,8 @@ body{
     font-family: 'Roboto';
 }
 .wave{
-    width: 164px;
+    max-width: 164px;
+    width: 100%;
     height: 55px;
     margin: 0 auto;
     background-color: #3D37F1;
@@ -113,7 +120,8 @@ body{
     font-family: 'Lato';
 }
 .tex2{
-    width: 328px;
+    max-width: 328px;
+    width: 100%;
     text-align: center;
     color: white;
     font-family: 'Lato';
@@ -147,7 +155,8 @@ body{
     margin-bottom: 21px;
 }
 .par345{
-   width: 712px;
+   max-width: 712px;
+   width: 100%;
    margin: 0 auto;
    font-size: 18px;
    margin-bottom: 67px;
