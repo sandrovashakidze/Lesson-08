@@ -24,6 +24,15 @@
         width: 200px;
     }
 } 
+@media (max-width:337px){
+    .satauti,.parag{
+        width: 200px;
+        margin: 0 auto;
+        margin-bottom: 20px;
+        
+    }
+}
+
 /* section 2 media */
 @media (max-width:1120px){
     .flex-conteiner{
