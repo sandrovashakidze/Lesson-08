@@ -24,11 +24,12 @@ body{
     margin-right: 30px;
     color: #3D37F1;
 }
+.navig{
+    font-family: 'Lato';
+    transition: all 0.5s;
+}
 .navig:hover{
     color:  grey;
-}
-.navig /* fonts base style */{
-    font-family: 'Lato';
 }
 .navig1 /* fonts base style */{
     font-family: 'Lato';
